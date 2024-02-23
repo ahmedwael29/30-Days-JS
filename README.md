@@ -2,8 +2,8 @@
 This repo contains all tasks of 30 days JS (Wes Bos)
 # #######################################################
 # 1-JavaScript Drum Kit
-# Live Demo : 
-# Repo Link : 
+# Live Demo : https://ahmed-wael29.github.io/Playing-Sounds-With-JS/
+# Repo Link : https://github.com/Ahmed-Wael29/Playing-Sounds-With-JS
 # ======================
 # 2-CSS JS Clock
 # Live Demo : https://ahmed-wael29.github.io/CSS-JS-Clock/
