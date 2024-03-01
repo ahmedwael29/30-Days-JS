@@ -22,8 +22,8 @@ This repo contains all tasks of 30 days JS (Wes Bos)
 # Repo Link : https://github.com/Ahmed-Wael29/Flex-Panel-Gallery
 # ======================
 # 6-Type A Head
-# Live Demo : https://ahmed-wael29.github.io/type-a-head/
-# Repo Link : https://github.com/Ahmed-Wael29/type-a-head
+# Live Demo : https://ahmed-wael29.github.io/Type-a-head/
+# Repo Link : https://github.com/Ahmed-Wael29/Type-a-head
 # ======================
 # 7-Array Cardio p(2)
 # Live Demo : https://ahmed-wael29.github.io/Array-Cardio-P2/
@@ -38,8 +38,8 @@ This repo contains all tasks of 30 days JS (Wes Bos)
 # Repo Link : undefined
 # ======================
 # 10-Hold Shift to Check Multiple Checkboxes
-# Live Demo : 
-# Repo Link : 
+# Live Demo : https://ahmed-wael29.github.io/Check-Multiple-Checkboxes/
+# Repo Link : https://github.com/Ahmed-Wael29/Check-Multiple-Checkboxes
 # ======================
 # 11-HTML Video Player
 # Live Demo : 
