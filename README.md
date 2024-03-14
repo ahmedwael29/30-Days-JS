@@ -42,6 +42,23 @@ This repo contains all tasks of 30 days JS (Wes Bos)
 # Repo Link : https://github.com/Ahmed-Wael29/Check-Multiple-Checkboxes
 # ======================
 # 11-HTML Video Player
+# Live Demo : https://ahmed-wael29.github.io/Custom-Video-Player/
+# Repo Link : https://github.com/Ahmed-Wael29/Custom-Video-Player
+# ======================
+# 12-Key Detection (KONAMI)
+# Live Demo : https://ahmed-wael29.github.io/Key-Detection/
+# Repo Link : https://github.com/Ahmed-Wael29/Key-Detection
+# ======================
+# 13-Slide On Scroll
+# Live Demo : https://ahmed-wael29.github.io/Slide-On-Scroll/
+# Repo Link : https://github.com/Ahmed-Wael29/Slide-On-Scroll
+# ======================
+# 14-JS Reference VS Copy
+# Live Demo : undefined
+# Repo Link : undefined
+# ======================
+# 15-LocalStorage
 # Live Demo : 
 # Repo Link : 
 # ======================
+
