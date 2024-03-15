@@ -57,8 +57,8 @@ This repo contains all tasks of 30 days JS (Wes Bos)
 # Live Demo : undefined
 # Repo Link : undefined
 # ======================
-# 15-LocalStorage
-# Live Demo : 
-# Repo Link : 
+# 15-Local Storage
+# Live Demo : https://ahmed-wael29.github.io/Practice-Using-Local-Storage/
+# Repo Link : https://github.com/Ahmed-Wael29/Practice-Using-Local-Storage
 # ======================
 
